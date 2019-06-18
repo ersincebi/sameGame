@@ -10,5 +10,7 @@ blocks of one letter.
 
 # Game Scoring schema:
   • P = (n-2)^2 for each group of tiles cleared, n is number of tiles in group, if hint is used p/2
+  
   • final score is: score – (number of remaining tiles)
+  
   • (score * 5) if you clear all the tiles
