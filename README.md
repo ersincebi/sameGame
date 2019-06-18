@@ -1,4 +1,4 @@
-# smaeGame
+# sameGame
 
   The game is played on a grid, filled with lettered tiles. The objective is to clear the grid by removing
 groups of tiles of the same letter. The tile that doesn’t have any neighboring tile with the same letter
