@@ -14,3 +14,10 @@ blocks of one letter.
   • final score is: score – (number of remaining tiles)
   
   • (score * 5) if you clear all the tiles
+
+## Authors
+- [Ersin ÇEBİ](https://github.com/ersincebi)
+    
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
